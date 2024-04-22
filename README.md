@@ -2,9 +2,9 @@
 
 - **Project Objective:**
 
-    **1.** Customer Performance Report: Develop a detailed analysis of customer behavior and purchasing patterns.
+    **1.** Customer Performance Report: Develop a detailed analysis of customer behavior and purchasing patterns.(https://github.com/SnorlaX0209/Excel-Sales-Analytics-Project-of-AtliQ-Hardwares/blob/main/Customer%20Performance%20Report.pdf)
 
-    **2.** Market Performance vs. Sales Targets: Conduct a thorough comparison between market performance and predefined sales targets.
+    **2.** Market Performance vs. Sales Targets: Conduct a thorough comparison between market performance and predefined sales targets.(https://github.com/SnorlaX0209/Excel-Sales-Analytics-Project-of-AtliQ-Hardwares/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)
 
 - **Purpose of sales analytics:** Sales analytics aims to empower businesses by enabling them to monitor, evaluate, and optimize their sales activities and performance.
 
