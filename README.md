@@ -1,32 +1,28 @@
-## Sales Report:
+## Sales Report :
 
-- **Problem Statement:**
-
-  AtliǪ Hardwares, a prominent player in the hardware industry, excels in crafting top-tier PCs, printers, mice, and computers. With a formidable global presence, the company now confronts 
-  the pivotal task of enhancing sales optimization and bolstering net gross margins.
 - **Project Objective:**
-  
-  This project delves into the analysis of a vast dataset containing over half a million records of unorganized sales data, necessitating extensive Extract, Transform, Load (ETL) efforts. The primary objective is to unearth strategic insights that will empower AtliQ Hardwares to make informed decisions and effectively track key performance indicators (KPIs). The ultimate aim is to drive substantial improvements in the company's performance, particularly in net sales and net gross margin, in the years ahead.
-- **Project Significance:**
-  
-  Unlocking the potential within this dataset is paramount to maximizing AtliǪ Hardwares' sales and profitability. Through harnessing the power of data analytics, my goal is to convert challenges into opportunities and facilitate data-driven decision-making. Join me on this transformative journey to unearth the hidden treasures within AtliǪ Hardwares' sales and finance data, thereby enhancing their global market presence and financial health. Welcome to the era of data-driven transformation!
-- **Project Overview:**
-  - **Sales Analysis and Reporting:**
-  
-     - **Objective:**
-     
-         I crafted a comprehensive customer performance report, providing a detailed analysis of customer behavior and trends. Additionally, I conducted an in-depth comparison of market 
-      performance against sales targets, identifying areas of opportunity and strategies for improvement.
-     - **Achievements:**
-       I implemented solutions that enable businesses to effectively monitor and evaluate their sales activities. Through the identification of critical sales patterns and the tracking of essential key performance indicators (KPIs), businesses can make data-driven decisions to drive growth and success
-- **Technical and Soft-Skills:**
-     - **Technical Skills:**
-       
-       I possess proficiency in ETL methodology (Extract, Transform, Load), with skills in generating date tables using Power Query. My experience includes deriving fiscal months and quarters, establishing data model relationships with Power Pivot, and adeptly incorporating supplementary data into existing data models. Additionally, I am skilled in using DAX to create calculated columns, enhancing data analysis capabilities.
-     - **Soft-Skills:**
-  
-       I have a refined understanding of Sales and Finance Reports and am capable of designing user-centric reports with empathy in mind. My experience includes optimizing report generation through meticulous fine-tuning and developing a systematic approach to devising a report-building plan.
-      
-  
-  
-  
+
+    **1.** Customer Performance Report: Develop a detailed analysis of customer behavior and purchasing patterns.
+
+    **2.** Market Performance vs. Sales Targets: Conduct a thorough comparison between market performance and predefined sales targets.
+
+- **Purpose of sales analytics:** Sales analytics aims to empower businesses by enabling them to monitor, evaluate, and optimize their sales activities and performance.
+
+- **Importance of analyzing sales data:** Analyzing sales data is crucial for identifying sales patterns, trends, and outliers, and for tracking key performance indicators (KPIs) such as revenue growth, market share, and customer acquisition costs.
+
+- **Role of reports:** Sales reports play a critical role in determining effective customer discounts, facilitating negotiations with consumers, and identifying potential business expansion opportunities in promising countries or regions.
+
+## Technical Skills:
+
+- [x]	ETL Methodology: Proficient in Extract, Transform, Load (ETL) processes for data integration and manipulation.
+- [x]	Power Query: Skilled in generating date tables and manipulating data using Power Query.
+- [x]	Power Pivot: Experienced in establishing data model relationships and enhancing data analysis using Power Pivot.
+- [x]	Data Model Enhancement: Proficient in incorporating supplementary data into existing data models for comprehensive analysis.
+- [x] DAX: Utilization of Data Analysis Expressions (DAX) for creating calculated columns and measures in Power BI and Excel.
+
+## Soft Skills:
+
+- [x] Sales & Finance Reports: Refined understanding of Sales and Finance Reports, including the ability to interpret and analyze complex financial data.
+- [x] User-centric Design: Skillful in designing reports with a user-centric approach, considering the needs and perspectives of the end-users.
+- [x] Report Generation Optimization: Experienced in optimizing report generation processes through meticulous fine-tuning, enhancing efficiency and accuracy.
+- [x] Systematic Approach: Proficient in developing a systematic approach to devising a report-building plan, ensuring consistency and effectiveness in reporting practices.
